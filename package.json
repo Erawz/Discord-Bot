@@ -1,0 +1,22 @@
+{
+  "name": "Module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apex-api": "^1.2.0",
+    "discord.js": "^11.4.2",
+    "fortnite": "^4.2.1",
+    "fortnite-api": "^3.2.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
